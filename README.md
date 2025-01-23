@@ -1,7 +1,7 @@
 SHIVANI BOINI
 ## Hi, Welcome to my GitHub Profile!👋🚀
 ===========================================================================
-## 🔍 Data Analyst | Tableau Consultant | Business Data Analyst | 
+## 🔍 Data Analyst | Tableau Consultant | Business Data Analyst | Product Analyst | Business Intelligence Analyst |
 📖 About Me:
 Hi, I'm Shivani Boini, a Management Information Systems graduate from the University of Illinois at Chicago, passionate about technology, project management, and data-driven decision-making. With 3 years of experience in IT, I specialize in Data Analysis, ETL, SQL coding, data modeling, and data warehousing. I'm currently seeking roles where I can leverage my skills to drive meaningful impact.
 
@@ -42,29 +42,37 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 #### **Business Analyst** - *NWI BUSINESS SOLUTIONS*
 - Designed and implemented a streamlined process from website visit to assessment completion, involving lead capture, assessment form submission, score calculation, and email-based follow-up.
 
-####  **Capgemini Technology Ltd.** -
+####  **Data Analyst** - *CAPGEMINI TECHNOLOGY Ltd.*
+-Led the design and implementation of complex data process flows between ERP and Oracle Integration Cloud (OIC), achieving an 87% success rate in integration and ensuring smooth data transfer between systems.
+
 
 ---
+### 💡 **🚀 Recent Projects**
+Here are some of my standout projects showcasing my technical expertise and problem-solving abilities:
+#### *Data Science Job Trends Analysis* | *Python & Tableau*
+-Developed interactive visualizations using Tableau and Python to visualize salary data, increasing stakeholder engagement by 45%.
+-Built predictive models to forecast salary based on various factors, improving decision-making for job seekers.
+-Extracted and analyzed key features from a dataset, including education level, programming languages, experience, and job requirements.
 
-### 💡 **Projects**
-#### **Blinkit Sales and Operations**
-- Designed a robust e-commerce dashboard for Blinkit using Power BI, DAX, and MySQL, achieving 30% improved sales forecasting accuracy and a 25% reduction in service delays. Delivered actionable insights through interactive visualizations, enhancing logistics and stakeholder decision-making.
+#### *Analyzing Student Performance Data* | *SQL & Excel*
+-Analyzed various sources of student records using SQL to extract, aggregate, and filter data from tables such as grades, attendance, and study habits, improving data analysis efficiency by 30%.
+-Conducted statistical analysis (e.g., correlations, groupings) to identify factors affecting average grades, leading to a 15% improvement in student engagement.
+-Produced a comprehensive 20-page report summarizing findings while presenting visualizations using Excel.
 
-#### **Credit Card Rejections with Machine Learning**
-- Developed a machine learning pipeline to predict credit card rejections using Logistic Regression and Random Forest, achieving robust accuracy through data preprocessing, feature scaling, and hyperparameter optimization. Enhanced model reliability with cross-validation and tackled challenges like missing data and class imbalances.
+#### *Visualizing Campus Safety Data* | *Tableau*
+-Visualized crime trends by time of day, day of the week, and month, uncovering peak incident times and patterns that improved resource scheduling efficiency by 20%.
+-Examined campus safety data (crime incidents, emergency response times, patrol logs) using Tableau, creating interactive dashboards for real-time data exploration.
+-Developed a dynamic Tableau dashboard, incorporating filters and interactive elements to allow stakeholders to explore trends and patterns in real time.
+
 
 ---
-
 ### 🏆 **Certifications**
 - Professional Scrum Master Certification I(PSM-I) -Scurm.org
 - SQL - MySQL for Data Analytics and Business Intelligence - Udemy
 - Tableau Data Analyst/Specialist Desktop - Udemy
 
+
 ---
-
-
-
-
 ### 📬 **Let’s Connect!**
 [LinkedIn](www.linkedin.com/in/shivani-boini) | [GitHub](https://github.com/ManoTeja4858) | [Email](mailto:manoteja4488@gmail.com)
 
