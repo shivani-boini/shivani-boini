@@ -43,15 +43,15 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 - Designed and implemented a streamlined process from website visit to assessment completion, involving lead capture, assessment form submission, score calculation, and email-based follow-up.
 
 ####  **Data Analyst** - *CAPGEMINI TECHNOLOGY Ltd.*
--Led the design and implementation of complex data process flows between ERP and Oracle Integration Cloud (OIC), achieving an 87% success rate in integration and ensuring smooth data transfer between systems.
+- Led the design and implementation of complex data process flows between ERP and Oracle Integration Cloud (OIC), achieving an 87% success rate in integration and ensuring smooth data transfer between systems.
 
 
 ---
 ### 💡 **🚀 Recent Projects**
 Here are some of my standout projects showcasing my technical expertise and problem-solving abilities:
 #### *Data Science Job Trends Analysis* | *Python & Tableau*
--Developed interactive visualizations using Tableau and Python to visualize salary data, increasing stakeholder engagement by 45%.
--Built predictive models to forecast salary based on various factors, improving decision-making for job seekers.
+- Developed interactive visualizations using Tableau and Python to visualize salary data, increasing stakeholder engagement by 45%.
+- Built predictive models to forecast salary based on various factors, improving decision-making for job seekers.
 - Extracted and analyzed key features from a dataset, including education level, programming languages, experience, and job requirements.
 
 #### *Analyzing Student Performance Data* | *SQL & Excel*
