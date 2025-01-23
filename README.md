@@ -36,13 +36,13 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 #### **Business Intelligence Analyst** - *RIVAL SOLUTIONS*
 - Improved quarterly sales forecast accuracy by 25% using SQL and Power BI, and optimized marketing strategies with GCP BigQuery, boosting sales by 15%.
  
-#### **Data Analyst (Facilities)** - *UIC CAMPUS RECREATION*
+#### ** Data Analyst (Operatations)** - *UIC CAMPUS RECREATION*
 - Analyzed student membership data to track enrollment trends and retention rates, providing actionable insights that helped optimize marketing strategies.
 
-#### **Intern ** - ** - *NWI BUSINESS SOLUTIONS*
+#### **Business Analyst** - *NWI BUSINESS SOLUTIONS*
 - Designed and implemented a streamlined process from website visit to assessment completion, involving lead capture, assessment form submission, score calculation, and email-based follow-up.
 
-####  
+####  **
 
 ---
 
@@ -62,13 +62,11 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 
 ---
 
-### 💞️ **I’m Open to Collaboration!**
-I am passionate about leveraging data science, machine learning, and generative AI to drive innovation and create impactful solutions. With a strong foundation in data analysis and model development, I thrive on building predictive models, and enhancing data-driven strategies. I am eager to contribute my expertise to innovative projects that solve real-world challenges and enable smarter decision-making.
 
-👨‍💻 As a freelance worker on [Upwork](https://www.upwork.com/freelancers/~01398067142836ad02?viewMode=1), I collaborate on diverse projects, delivering high-quality work to clients worldwide. Let's connect and make great things happen!
+
 
 ### 📬 **Let’s Connect!**
-[LinkedIn](https://www.linkedin.com/in/manoteja48) | [GitHub](https://github.com/ManoTeja4858) | [Email](mailto:manoteja4488@gmail.com)
+[LinkedIn](www.linkedin.com/in/shivani-boini) | [GitHub](https://github.com/ManoTeja4858) | [Email](mailto:manoteja4488@gmail.com)
 
 Let’s innovate together! ✨
 <!---
