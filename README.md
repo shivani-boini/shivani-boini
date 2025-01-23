@@ -1,7 +1,7 @@
 SHIVANI BOINI
 ## Hi, Welcome to my GitHub Profile!👋🚀
-=============================================================================
-## 🔍 Data Analyst | Tableau Consultant | 
+===========================================================================
+## 🔍 Data Analyst | Tableau Consultant | Business Data Analyst | 
 📖 About Me:
 Hi, I'm Shivani Boini, a Management Information Systems graduate from the University of Illinois at Chicago, passionate about technology, project management, and data-driven decision-making. With 3 years of experience in IT, I specialize in Data Analysis, ETL, SQL coding, data modeling, and data warehousing. I'm currently seeking roles where I can leverage my skills to drive meaningful impact.
 
@@ -42,7 +42,7 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 #### **Business Analyst** - *NWI BUSINESS SOLUTIONS*
 - Designed and implemented a streamlined process from website visit to assessment completion, involving lead capture, assessment form submission, score calculation, and email-based follow-up.
 
-####  **
+####  **Capgemini Technology Ltd.** -
 
 ---
 
