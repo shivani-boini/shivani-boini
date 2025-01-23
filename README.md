@@ -52,17 +52,17 @@ Here are some of my standout projects showcasing my technical expertise and prob
 #### *Data Science Job Trends Analysis* | *Python & Tableau*
 -Developed interactive visualizations using Tableau and Python to visualize salary data, increasing stakeholder engagement by 45%.
 -Built predictive models to forecast salary based on various factors, improving decision-making for job seekers.
--Extracted and analyzed key features from a dataset, including education level, programming languages, experience, and job requirements.
+- Extracted and analyzed key features from a dataset, including education level, programming languages, experience, and job requirements.
 
 #### *Analyzing Student Performance Data* | *SQL & Excel*
--Analyzed various sources of student records using SQL to extract, aggregate, and filter data from tables such as grades, attendance, and study habits, improving data analysis efficiency by 30%.
--Conducted statistical analysis (e.g., correlations, groupings) to identify factors affecting average grades, leading to a 15% improvement in student engagement.
--Produced a comprehensive 20-page report summarizing findings while presenting visualizations using Excel.
+- Analyzed various sources of student records using SQL to extract, aggregate, and filter data from tables such as grades, attendance, and study habits, improving data analysis efficiency by 30%.
+- Conducted statistical analysis (e.g., correlations, groupings) to identify factors affecting average grades, leading to a 15% improvement in student engagement.
+- Produced a comprehensive 20-page report summarizing findings while presenting visualizations using Excel.
 
 #### *Visualizing Campus Safety Data* | *Tableau*
--Visualized crime trends by time of day, day of the week, and month, uncovering peak incident times and patterns that improved resource scheduling efficiency by 20%.
--Examined campus safety data (crime incidents, emergency response times, patrol logs) using Tableau, creating interactive dashboards for real-time data exploration.
--Developed a dynamic Tableau dashboard, incorporating filters and interactive elements to allow stakeholders to explore trends and patterns in real time.
+- Visualized crime trends by time of day, day of the week, and month, uncovering peak incident times and patterns that improved resource scheduling efficiency by 20%.
+- Examined campus safety data (crime incidents, emergency response times, patrol logs) using Tableau, creating interactive dashboards for real-time data exploration.
+- Developed a dynamic Tableau dashboard, incorporating filters and interactive elements to allow stakeholders to explore trends and patterns in real time.
 
 
 ---
@@ -74,14 +74,14 @@ Here are some of my standout projects showcasing my technical expertise and prob
 
 ---
 ### 🎯 **Goals**
--Leverage my skills in data analysis and product management to solve complex business problems.
--Become a product manager and lead cross-functional teams to deliver impactful solutions.
+- Leverage my skills in data analysis and product management to solve complex business problems.
+- Become a product manager and lead cross-functional teams to deliver impactful solutions.
 
 
 ---
 ### 🌟 **Fun Facts**
--Dancing and music are my go-to therapy.
--I love volunteering, planning events, and interacting with diverse cultures.
+- Dancing and music are my go-to therapy.
+- I love volunteering, planning events, and interacting with diverse cultures.
 
 
 ---
