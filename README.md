@@ -73,8 +73,20 @@ Here are some of my standout projects showcasing my technical expertise and prob
 
 
 ---
+### 🎯 **Goals**
+-Leverage my skills in data analysis and product management to solve complex business problems.
+-Become a product manager and lead cross-functional teams to deliver impactful solutions.
+
+
+---
+### 🌟 **Fun Facts**
+-Dancing and music are my go-to therapy.
+-I love volunteering, planning events, and interacting with diverse cultures.
+
+
+---
 ### 📬 **Let’s Connect!**
-[LinkedIn](www.linkedin.com/in/shivani-boini) | [GitHub](https://github.com/ManoTeja4858) | [Email](mailto:manoteja4488@gmail.com)
+[LinkedIn](www.linkedin.com/in/shivani-boini) | [GitHub](https://github.com/shivani-boini) | [Email](mailto:shivaniboinioff@gmail.com)
 
 Let’s innovate together! ✨
 <!---
