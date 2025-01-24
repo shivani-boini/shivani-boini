@@ -28,7 +28,7 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tableau/"></code>
+
 
 
 ---
@@ -36,7 +36,7 @@ Hi, I'm Shivani Boini, a Management Information Systems graduate from the Univer
 #### **Business Intelligence Analyst** - *RIVAL SOLUTIONS*
 - Improved quarterly sales forecast accuracy by 25% using SQL and Power BI, and optimized marketing strategies with GCP BigQuery, boosting sales by 15%.
  
-#### ** Data Analyst (Operatations)** - *UIC CAMPUS RECREATION*
+#### **Data Analyst (Operatations)** - *UIC CAMPUS RECREATION*
 - Analyzed student membership data to track enrollment trends and retention rates, providing actionable insights that helped optimize marketing strategies.
 
 #### **Business Analyst** - *NWI BUSINESS SOLUTIONS*
