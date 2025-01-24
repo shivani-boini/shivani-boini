@@ -89,7 +89,4 @@ Here are some of my standout projects showcasing my technical expertise and prob
 [LinkedIn](www.linkedin.com/in/shivani-boini) | [GitHub](https://github.com/shivani-boini) | [Email](mailto:shivaniboinioff@gmail.com)
 
 Let’s innovate together! ✨
-<!---
-ManoTeja4858/ManoTeja4858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
