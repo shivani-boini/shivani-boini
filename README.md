@@ -67,9 +67,7 @@ Here are some of my standout projects showcasing my technical expertise and prob
 
 ---
 ### 🏆 **Certifications**
-- Professional Scrum Master Certification I(PSM-I) -Scurm.org
-- SQL - MySQL for Data Analytics and Business Intelligence - Udemy
-- Tableau Data Analyst/Specialist Desktop - Udemy
+- 
 
 
 ---
